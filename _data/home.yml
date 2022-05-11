@@ -9,49 +9,57 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: ch 1 
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: 자연어 처리의 기본
 
-  - title: Project 2
+  - title: ch 2
     url: overview-post
     desc: Projects are shown in card layout
 
-  - title: Project 3
+  - title: ch 3
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: 언어학의 기본원리
 
-  - title: Project 4
+  - title: ch 4
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: 텍스트의 전처리
 
-  - title: Project 5
+
+  - title: ch 5
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: 어휘 분석
+   
 
-  - title: Project 6
+  - title: ch 6
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: 구문 분석
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: ch 7 
+    url: overview-post
+    desc: 의미 분석
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: ch 8
+    url: overview-post
+    desc: 개체명 인식
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: ch 9
+    url: overview-post
+    desc: 언어 모델
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: ch 10
+    url: overview-post
+    desc: 정보추출
+ 
+
+  - title: ch 11
+    url: overview-post
+    desc: 질의응답
+
+
+  - title: ch 12
+    url: overview-post
+    desc: 기계번역
 
 footer_entries:
   - title: abhinav's homepage
